@@ -1,0 +1,1 @@
+print("This is logic for multiplication of two num")
